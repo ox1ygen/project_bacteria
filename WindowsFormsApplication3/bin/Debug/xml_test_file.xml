@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Indole_x0020_production>1</Indole_x0020_production>
+    <Methyl_x0020_red>4</Methyl_x0020_red>
+    <Voges-Proskauer>0</Voges-Proskauer>
+    <Citrate>0</Citrate>
+    <Hydrogen_x0020_sulfide>0</Hydrogen_x0020_sulfide>
+    <Urea_x0020_hydrolysis>9</Urea_x0020_hydrolysis>
+    <Phenylalanine_x0020_deaminase>0</Phenylalanine_x0020_deaminase>
+    <Lysine_x0020_decarboxylase>1</Lysine_x0020_decarboxylase>
+    <Arginine_x0020_dihydrolase>1</Arginine_x0020_dihydrolase>
+    <Ornithine_x0020_decarboxylase>0</Ornithine_x0020_decarboxylase>
+    <Motility>1</Motility>
+    <Gelatin_x0020_hydrolysis>0</Gelatin_x0020_hydrolysis>
+    <d-Glucpse_x002C__x0020_gas>1</d-Glucpse_x002C__x0020_gas>
+    <Lactose_x0020_fermentation>1</Lactose_x0020_fermentation>
+    <Sucrose_x0020_fermentation>1</Sucrose_x0020_fermentation>
+    <d-Mannitol_x0020_fermentation>1</d-Mannitol_x0020_fermentation>
+    <Dulcitol_x0020_fermentation>1</Dulcitol_x0020_fermentation>
+    <Adonitol_x0020_fermentation>0</Adonitol_x0020_fermentation>
+    <d-Sorbitol_x0020_fermentation>1</d-Sorbitol_x0020_fermentation>
+    <l-Arabinose_x0020_fermentation>1</l-Arabinose_x0020_fermentation>
+    <Raffinose_x0020_fermentation>1</Raffinose_x0020_fermentation>
+    <l-Rhamnose_x0020_fermentation>1</l-Rhamnose_x0020_fermentation>
+    <d-Xylose_x0020_fermentation>1</d-Xylose_x0020_fermentation>
+    <Melibiose_x0020_fermentation>1</Melibiose_x0020_fermentation>
+    <DNase>0</DNase>
+    <ONPG>1</ONPG>
+  </Table1>
+</NewDataSet>

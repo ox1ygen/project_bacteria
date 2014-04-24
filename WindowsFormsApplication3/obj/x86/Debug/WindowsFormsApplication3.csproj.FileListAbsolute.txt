@@ -1,0 +1,82 @@
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+c:\users\pugovka\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (2)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Pugovka\Downloads\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ox1ygen\Downloads\WindowsFormsApplication3 (3)\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pugovka\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ox1ygen\Downloads\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.cluster_data_form.resources
+C:\Users\ox1ygen\Desktop\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.cluster_division_form.resources
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.cluster_data_form.resources
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.cluster_division_form.resources
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pugovka\Documents\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.cluster_data_form.resources
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.cluster_division_form.resources
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ox1ygen\Downloads\new\new\new\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
